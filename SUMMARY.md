@@ -11,6 +11,8 @@
     - [Eval](Commands/Eval.md)
 * [Attributes](Attributes/README.md)
 * [Expressions](Expressions/README.md)
+* [Tactics](Tactics/README.md)
+* [IO](IO/README.md)
 * [Undocumented Features](Undocumented/README.md)
 
 
