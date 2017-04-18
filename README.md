@@ -12,8 +12,9 @@ This document is not intended to be an
 [introduction](https://leanprover.github.io/introduction_to_lean) to the language.
 We provide separate books intended to for most users of Lean, one focused on
 [theorem proving](https://leanprover.github.io/theorem_proving_in_lean) and
-another on [programming](https://leanprover.github.io/programming_in_lean) with Lean.
+another on [programming] with Lean.
 
 This document only covers the minimal library details needed by Lean,
 the standard library is documented separately, with the hope of using
-`leandoc` to extract and host documentation elsewhere in the future.
+Lean doc to extract and host the documentation else where in the future.
+
