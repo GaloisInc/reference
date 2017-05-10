@@ -13,7 +13,8 @@ Now, when a later definition refers to T, it will be automatically added as a pa
 ```lean
 def identity (x : T) : T := x
 
-#check f -- identity : Π (T : Type), T → T
+#check identity -- identity : T → T
+
 ```
 
 For `variable` this parameter addition happens immediately, so in the future to use function `identity` you must supply a value for T:
